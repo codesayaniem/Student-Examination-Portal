@@ -1,0 +1,14 @@
+Name of the student : ARUSHI DAS 
+Class Roll of the student : 75 
+Stream of the student : ME 
+Your Student ID is : ME2275
+
+Marks obtained in Math is : 76 
+Marks obtained in Python is : 56 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 37 
+
+You have got 424 in total with 84%
+Good Performance... You have passed the exam with grade C.

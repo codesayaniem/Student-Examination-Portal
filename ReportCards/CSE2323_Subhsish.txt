@@ -1,0 +1,14 @@
+Name of the student : Subhsish 
+Class Roll of the student : 23 
+Stream of the student : CSE 
+Your Student ID is : CSE2323
+
+Marks obtained in Math is : 13 
+Marks obtained in Python is : 12 
+Marks obtained in Physics is : 14 
+Marks obtained in Chemistry is : 15 
+Marks obtained in Biology is : 16 
+Marks obtained in English is : 17 
+
+You have got 87 in total with 14%
+Extremely poor performance... You have Failed the Exam and got F.

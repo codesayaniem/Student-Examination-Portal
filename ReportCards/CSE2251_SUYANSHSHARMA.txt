@@ -1,0 +1,14 @@
+Name of the student : SUYANSH SHARMA 
+Class Roll of the student : 51 
+Stream of the student : CSE 
+Your Student ID is : CSE2251
+
+Marks obtained in Math is : 34 
+Marks obtained in Python is : 89 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 45 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 67 
+
+You have got 389 in total with 64%
+Your performance is average... Work hard... You have passed the exam with grade D.

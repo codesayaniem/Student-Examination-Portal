@@ -1,0 +1,14 @@
+Name of the student : HARSH RAJPUT 
+Class Roll of the student : 23 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2223
+
+Marks obtained in Math is : 67 
+Marks obtained in Python is : 45 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 56 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 67 
+
+You have got 422 in total with 70%
+Good Performance... You have passed the exam with grade C.

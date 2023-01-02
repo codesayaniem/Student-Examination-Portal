@@ -1,0 +1,14 @@
+Name of the student : TANUJ DAS 
+Class Roll of the student : 39 
+Stream of the student : CSE 
+Your Student ID is : CSE2239
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 34 
+Marks obtained in Physics is : 45 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 34 
+Marks obtained in English is : 78 
+
+You have got 375 in total with 62%
+Your performance is average... Work hard... You have passed the exam with grade D.

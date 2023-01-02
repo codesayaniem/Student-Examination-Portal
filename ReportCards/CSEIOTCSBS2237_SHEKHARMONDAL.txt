@@ -1,0 +1,14 @@
+Name of the student : SHEKHAR MONDAL 
+Class Roll of the student : 37 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS2237
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 45 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 45 
+Marks obtained in English is : 56 
+
+You have got 398 in total with 66%
+Your performance is average... Work hard... You have passed the exam with grade D.

@@ -1,0 +1,14 @@
+Name of the student : SAYAN GUHA 
+Class Roll of the student : 34 
+Stream of the student : CSE 
+Your Student ID is : CSE2234
+
+Marks obtained in Math is : 67 
+Marks obtained in Python is : 34 
+Marks obtained in Physics is : 56 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 67 
+
+You have got 400 in total with 66%
+Your performance is average... Work hard... You have passed the exam with grade D.

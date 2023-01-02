@@ -1,0 +1,14 @@
+Name of the student : Sayan 
+Class Roll of the student : 24 
+Stream of the student : CSE 
+Your Student ID is : CSE2324
+
+Marks obtained in Math is : 57 
+Marks obtained in Python is : 56 
+Marks obtained in Physics is : 12 
+Marks obtained in Chemistry is : 11 
+Marks obtained in Biology is : 2 
+Marks obtained in English is : 3 
+
+You have got 141 in total with 23%
+Extremely poor performance... You have Failed the Exam and got F.

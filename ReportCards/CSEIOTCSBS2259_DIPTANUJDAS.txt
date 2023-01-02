@@ -1,0 +1,14 @@
+Name of the student : DIPTANUJ DAS 
+Class Roll of the student : 59 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS2259
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 56 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 78 
+
+You have got 476 in total with 79%
+Good Performance... You have passed the exam with grade C.

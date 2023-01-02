@@ -1,0 +1,14 @@
+Name of the student : Sayan 
+Class Roll of the student : 69 
+Stream of the student : CSE 
+Your Student ID is : CSE2269
+
+Marks obtained in Math is : 93 
+Marks obtained in Python is : 92 
+Marks obtained in Physics is : 94 
+Marks obtained in Chemistry is : 96 
+Marks obtained in Biology is : 97 
+Marks obtained in English is : 98 
+
+You have got 570 in total with 95%
+Outstanding Performance... You have passed the exam with grade A.

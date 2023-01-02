@@ -1,0 +1,14 @@
+Name of the student : SHEIKH RAJJAK 
+Class Roll of the student : 69 
+Stream of the student : ME 
+Your Student ID is : ME2269
+
+Marks obtained in Math is : 45 
+Marks obtained in Python is : 87 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 34 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 67 
+
+You have got 398 in total with 79%
+Your performance is average... Work hard... You have passed the exam with grade D.

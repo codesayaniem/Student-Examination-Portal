@@ -1,0 +1,14 @@
+Name of the student : RAJU CHAKROBORTY 
+Class Roll of the student : 87 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2287
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 34 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 19 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 79 
+
+You have got 399 in total with 66%
+Your performance is average... Work hard... You have passed the exam with grade D.

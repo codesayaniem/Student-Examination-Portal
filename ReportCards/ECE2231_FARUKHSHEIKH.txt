@@ -1,0 +1,14 @@
+Name of the student : FARUKH SHEIKH 
+Class Roll of the student : 31 
+Stream of the student : ECE 
+Your Student ID is : ECE2231
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 34 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 54 
+Marks obtained in Biology is : 79 
+Marks obtained in English is : 67 
+
+You have got 368 in total with 73%
+Your performance is average... Work hard... You have passed the exam with grade D.

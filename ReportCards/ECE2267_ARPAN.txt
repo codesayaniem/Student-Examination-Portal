@@ -1,0 +1,14 @@
+Name of the student : ARPAN 
+Class Roll of the student : 67 
+Stream of the student : ECE 
+Your Student ID is : ECE2267
+
+Marks obtained in Math is : 86 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 87 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 89 
+Marks obtained in English is : 90 
+
+You have got 525 in total with 105%
+Excellent Performance... You have passed the exam with grade B.
